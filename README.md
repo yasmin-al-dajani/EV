@@ -1,2 +1,2 @@
 # EV
-Forecasting model which integrates demand signals, supply readinedd and marcoeconomic context. 
+Forecasting model which integrates demand signals, supply readiness and marcoeconomic context. 
